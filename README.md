@@ -20,16 +20,8 @@ Escalabilidade: o sistema pode crescer sem comprometer o desempenho.
 
 UX aprimorada: carregamentos mais rápidos, navegação fluida e visual mais moderno.
 
-Estrutura Atual do Projeto
-src/
-├─ app/                 # Rotas e páginas (App Router)
-│   ├─ layout.tsx       # Layout global (header, sidebar, tema)
-│   ├─ page.tsx         # Página inicial
-│   └─ api/             # Rotas de API internas
-├─ components/          # Componentes reutilizáveis (Card, Button, Modal, etc)
-├─ lib/                 # Funções auxiliares e configs globais
-├─ styles/              # Estilos globais com Tailwind CSS
-└─ types/               # Tipagens TypeScript
+<img width="681" height="274" alt="Captura de tela 2025-10-23 192402" src="https://github.com/user-attachments/assets/bf1ec963-2c9b-470b-9a4a-d1ae84ceb9a3" />
+
 
 Protótipos e Ideação Visual
 
