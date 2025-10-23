@@ -22,14 +22,14 @@ UX aprimorada: carregamentos mais rápidos, navegação fluida e visual mais mod
 
 Estrutura Atual do Projeto
 src/
- ├─ app/                 # Rotas e páginas (App Router)
- │   ├─ layout.tsx       # Layout global (header, sidebar, tema)
- │   ├─ page.tsx         # Página inicial
- │   └─ api/             # Rotas de API internas
- ├─ components/          # Componentes reutilizáveis (Card, Button, Modal, etc)
- ├─ lib/                 # Funções auxiliares e configs globais
- ├─ styles/              # Estilos globais com Tailwind CSS
- └─ types/               # Tipagens TypeScript
+├─ app/                 # Rotas e páginas (App Router)
+│   ├─ layout.tsx       # Layout global (header, sidebar, tema)
+│   ├─ page.tsx         # Página inicial
+│   └─ api/             # Rotas de API internas
+├─ components/          # Componentes reutilizáveis (Card, Button, Modal, etc)
+├─ lib/                 # Funções auxiliares e configs globais
+├─ styles/              # Estilos globais com Tailwind CSS
+└─ types/               # Tipagens TypeScript
 
 Protótipos e Ideação Visual
 
